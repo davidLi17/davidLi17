@@ -29,8 +29,6 @@ I'm currently a sophomore Chinese university student with a passion for both fro
   - Website deployment
 
 - 📫 How to reach me:
-  - **Phone:** 13772763778
-  - **QQ:** 1320503154
   - **GitHub:** [1320503154](https://github.com/1320503154)
 
 - 😄 Pronouns: Docter Who?
