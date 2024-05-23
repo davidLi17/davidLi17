@@ -13,7 +13,7 @@ I'm currently a sophomore Chinese university student with a passion for both fro
   - Algorithms
   - Vue projects, including e-commerce and management systems
   - Mini-program e-commerce projects
-  - Node.js projects like Xiaoman zs
+  - Node.js projects learn from Xiaoman zs
 
 - 👯 I’m looking to collaborate on:
   - Projects with friends from the Science and Technology Association
