@@ -49,7 +49,7 @@ Here are some of my notable projects:
 ## Get In Touch
 Feel free to reach out if you have any questions or if you'd like to collaborate on a project!
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from China</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1320503154&label=Profile%20views&color=0e75b6&style=flat" alt="1320503154" /> </p>
 
