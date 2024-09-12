@@ -7,6 +7,7 @@ I'm currently a sophomore Chinese university student with a passion for both fro
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=1320503154&" alt="1320503154" /></p>
 ## Get In Touch
+
 Feel free to reach out if you have any questions or if you'd like to collaborate on a project!
 
 <h3 align="center">A passionate frontend developer from China</h3>
