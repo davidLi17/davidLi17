@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **everything you interested.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:github is enough</h3>
 <p align="left">
 </p>
 
