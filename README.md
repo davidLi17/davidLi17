@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm DavidLi</h1>
-<h3 align="center">I'm currently a third-year Chinese university student with a passion for both frontend and backend development(using React and nestjs)</h3>
+<h3 align="center">I'm currently a third-year undergraduate student in China with a passion for both frontend and backend development(using React || Vue3 and nestjs)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1320503154&label=Profile%20views&color=0e75b6&style=flat" alt="1320503154" /> </p>
 
