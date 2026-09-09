@@ -14,15 +14,13 @@ Frontend Engineer at ByteDance · React & TypeScript · AI Agents & Developer To
 
 - 💼 I’m currently working as a **Frontend Engineer at ByteDance**
 
-- ⚛️ My main stack is **React, TypeScript, NestJS, Vite and Tailwind CSS**
+- ⚛️ My main stack is **React, TypeScript, Vite and Tailwind CSS**, with **NestJS** for backend development
 
-- 🤖 I’m currently exploring **AI Agents, Coding Agents and AI-assisted software development workflows**
+- 🤖 I’m exploring **AI Agents and Coding Agents for software development automation**
 
 - 🛠️ I enjoy building **developer tools, browser extensions and productivity products**
 
 - 🚀 I care about turning real problems into practical products that I actually use
-
-- 💬 Ask me about **frontend engineering, React, TypeScript, AI Agents and developer tools**
 
 <h3 align="left">Featured Projects:</h3>
 
@@ -31,14 +29,6 @@ Frontend Engineer at ByteDance · React & TypeScript · AI Agents & Developer To
 
 - 📊 <a href="https://github.com/davidLi17/Log-Rush"><b>LogRush</b></a>  
   A VS Code extension for quickly inserting, managing, navigating, highlighting, and cleaning up console log statements in JavaScript and TypeScript projects.
-
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-  <a href="https://github.com/davidLi17">
-    <img src="https://img.shields.io/badge/GitHub-davidLi17-181717?style=flat&logo=github" alt="GitHub" />
-  </a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 
