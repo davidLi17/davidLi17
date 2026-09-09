@@ -14,7 +14,7 @@ Frontend Engineer at ByteDance · React & TypeScript · AI Agents & Developer To
 
 - 💼 I’m currently working as a **Frontend Engineer at ByteDance**
 
-- ⚛️ My main stack is **React, TypeScript, Next.js, Vite and Tailwind CSS**
+- ⚛️ My main stack is **React, TypeScript, Nest.ts, Vite and Tailwind CSS**
 
 - 🤖 I’m currently exploring **AI Agents, Coding Agents and AI-assisted software development workflows**
 
